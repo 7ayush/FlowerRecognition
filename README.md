@@ -1,6 +1,6 @@
 # Flower Species Recognition System #
 
-![alt text](https://github.com/7ayush/FlowerRecognition)
+## https://github.com/7ayush/FlowerRecognition
 
 
 ### Summary of the project ###
